@@ -13,6 +13,7 @@ Input: n = 1
 Output: true
 ***/
 
+
 class Solution {
     public boolean isPowerOfFour(int n) {
        return powerofFour(n,4); 
