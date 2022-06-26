@@ -29,5 +29,5 @@ class Solution {
      if(n%k!=0)
          return false;
 
-     
+    
      return powerofTwo(n/k,k);
