@@ -13,6 +13,7 @@ Input: n = 9
 Output: true
 ***/
 
+
 class Solution {
     public boolean isPowerOfThree(int n) {
         return powerofThree(n,3);
